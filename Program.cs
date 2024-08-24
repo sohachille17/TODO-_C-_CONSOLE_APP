@@ -147,7 +147,7 @@ void RemoveToDoByIndex()
               Console.WriteLine($"Value removed successfully!");
         }else
         {
-            Console.WriteLine("Sorry but selected index it out of range to be process..");
+            Console.WriteLine("Sorry but selected index is out of range to be process..");
         }
       
     }else
